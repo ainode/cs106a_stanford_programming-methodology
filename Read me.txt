@@ -1,0 +1,1 @@
+this folder contains project done for cs106a stanford programming paradigms. the IDE used is eclipse for java.
